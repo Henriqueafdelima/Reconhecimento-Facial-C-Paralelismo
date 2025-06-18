@@ -1,0 +1,8 @@
+streamlit
+facenet-pytorch
+torch
+torchvision
+numpy
+pillow
+cupy
+mpi4py
