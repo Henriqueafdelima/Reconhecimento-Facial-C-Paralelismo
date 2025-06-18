@@ -90,7 +90,7 @@ O processamento de embeddings faciais envolve as seguintes etapas:
 1. Clone este repositório:
 ```bash
 git clone https://github.com/Henriqueafdelima/Reconhecimento-Facial-C-Paralelismo.git
-cd seu-repositorio
+cd ####
 ```
 
 2. Instale as dependências:
