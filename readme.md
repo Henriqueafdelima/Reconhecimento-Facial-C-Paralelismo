@@ -20,7 +20,7 @@ Funcionalidades
 
  Comparativo de Desempenho
 
-Realizamos testes práticos com uma base de **500 imagens**. Veja os resultados médios:
+Realizamos testes práticos com uma base de 3 sets de imagens. Veja os resultados médios:
 
 | **Modo de Processamento** | **Tempo Médio** |
 |---------------------------|------------------|
