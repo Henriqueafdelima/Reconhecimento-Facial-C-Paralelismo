@@ -22,11 +22,6 @@ Funcionalidades
 
 Realizamos testes práticos com uma base de 3 sets de imagens. Veja os resultados médios:
 
-| **Modo de Processamento** | **Tempo Médio** |
-|---------------------------|------------------
-| 🟢 Paralelo CPU (8 núcleos) | 100/60    |
-| 🔴 Paralelo GPU (NVIDIA GTX 1650 super) | 100/10|
-
  **Ganho de Desempenho:**
 - **Paralelo CPU**:  até **3,4x mais rápido** que o sequencial.
 - **Paralelo GPU**:  até **16x mais rápido** que o sequencial.
